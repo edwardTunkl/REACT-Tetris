@@ -1,3 +1,9 @@
+# Welcome to my little Tetris Game (built with REACT)
+
+These are my first steps into game development and certainly not my last :)
+
+Credits to Thomas Weibenfalk and freeCodeCamp.org
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
